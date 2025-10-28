@@ -43,3 +43,30 @@ html {
     border-top: 1px dashed #ddd;
     border-bottom: 1px dashed #ddd;
 }
+
+/*quotes*/
+.quotes-container{
+    background-color: #ddd;
+    padding: 30px;
+}
+
+.quotes-container blockquote{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.quotes-container p{
+    font-style: italic;
+}
+
+/*Curiosidades*/
+.curiosities-container {
+    padding: 25px 0px;
+    margin: 25px 0px;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.curiosities-container li {
+   height: 30px;
+}
