@@ -1,0 +1,19 @@
+/*Estilo para todo arquivo HTML*/
+html {
+    font-family: helvetica;
+    background-color: #ddd;
+}
+
+/*Estilo para minha div container principal do site*/
+.container {
+    max-width: 1100px; /*Largura máxima do elemento*/
+    background-color: white;
+    /*Centralizar conteúdo*/
+    position: relative;
+    margin: 50px auto; 
+    /*Espaçamento interno*/
+    padding: 20px 50px;
+}
+.bold {
+    font-weight: bold; /*texto em negrito*/
+}
