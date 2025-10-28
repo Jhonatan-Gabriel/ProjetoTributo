@@ -17,3 +17,20 @@ html {
 .bold {
     font-weight: bold; /*texto em negrito*/
 }
+
+/*Header*/
+.header {
+    text-align: center;
+}
+.main-title {
+    font-size: 45px;
+}
+.main-paragraph {
+    font-style: italic;
+}
+
+/*Imagem destaque*/
+.featured-image {
+    text-align: center;
+    margin-top: 35px;
+}
