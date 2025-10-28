@@ -1,81 +1,81 @@
 /*Estilo para todo arquivo HTML*/
 html {
-    font-family: helvetica;
-    background-color: #ddd;
+  font-family: helvetica;
+  background-color: #ddd;
 }
 
 /*Estilo para minha div container principal do site*/
 .container {
-    max-width: 1100px; /*Largura máxima do elemento*/
-    background-color: white;
-    /*Centralizar conteúdo*/
-    position: relative;
-    margin: 50px auto; 
-    /*Espaçamento interno*/
-    padding: 20px 50px;
+  max-width: 1100px; /*Largura máxima do elemento*/
+  background-color: white;
+  /*Centralizar conteúdo*/
+  position: relative;
+  margin: 50px auto;
+  /*Espaçamento interno*/
+  padding: 20px 50px;
 }
 .bold {
-    font-weight: bold; /*texto em negrito*/
+  font-weight: bold; /*texto em negrito*/
 }
 
 /*Header*/
 .header {
-    text-align: center; /*Centraliza todo conteúdo da header*/
+  text-align: center; /*Centraliza todo conteúdo da header*/
 }
 .main-title {
-    font-size: 45px; /*Define o tamanho do texto em 45px*/
+  font-size: 45px; /*Define o tamanho do texto em 45px*/
 }
 .main-paragraph {
-    font-style: italic; /*Define o texto do paragrafo em italico*/
+  font-style: italic; /*Define o texto do paragrafo em italico*/
 }
 
 /*Imagem destaque*/
 .featured-image {
-    text-align: center; /*Centraliza o texto e a imagem*/
-    margin-top: 35px; /*Adiciona uma margem superior de 35px*/
+  text-align: center; /*Centraliza o texto e a imagem*/
+  margin-top: 35px; /*Adiciona uma margem superior de 35px*/
 }
 
 /*Biografia*/
 .biography {
-     /*Ajusta o espaçamento interno (apenas altura) dos elementos dentro do container*/
-    padding: 25px 0px;
-    margin: 25px 0px;
-    /*Cria um distanciamento e uma borda entre outros elementos/div*/
-    border-top: 1px dashed #ddd;
-    border-bottom: 1px dashed #ddd;
+  /*Ajusta o espaçamento interno (apenas altura) dos elementos dentro do container*/
+  padding: 25px 0px;
+  margin: 25px 0px;
+  /*Cria um distanciamento e uma borda entre outros elementos/div*/
+  border-top: 1px dashed #ddd;
+  border-bottom: 1px dashed #ddd;
 }
 
 /*quotes*/
-.quotes-container{
-    background-color: #ddd; /*Define a cor de fundo do container*/
-    padding: 30px; /*Define o espaçamento interno do container*/
+.quotes-container {
+  background-color: #ddd; /*Define a cor de fundo do container*/
+  padding: 30px; /*Define o espaçamento interno do container*/
 }
 
-.quotes-container blockquote{
-    font-weight: bold; /*Define o texto das blockquotes em negrito*/
-    font-size: 35px; /*Define o tamanho texto em 35px*/
+.quotes-container blockquote {
+  font-weight: bold; /*Define o texto das blockquotes em negrito*/
+  font-size: 35px; /*Define o tamanho texto em 35px*/
 }
 
-.quotes-container p{
-    font-style: italic; /*Define o texto do paragrafo em italico*/
+.quotes-container p {
+  font-style: italic; /*Define o texto do paragrafo em italico*/
 }
 
 /*Curiosidades*/
 .curiosities-container {
-    /*Ajusta o espaçamento interno (apenas altura) dos elementos dentro do container*/
-    padding: 25px 0px;
-    margin: 25px 0px;
-    /*Cria um distanciamento e uma borda entre outros elementos/div*/
-    border-top: 1px dashed #ddd;
-    border-bottom: 1px dashed #ddd;
+  /*Ajusta o espaçamento interno (apenas altura) dos elementos dentro do container*/
+  padding: 25px 0px;
+  margin: 25px 0px;
+  /*Cria um distanciamento e uma borda entre outros elementos/div*/
+  border-top: 1px dashed #ddd;
+  border-bottom: 1px dashed #ddd;
 }
 
 .curiosities-container li {
-   height: 30px; /*Aumenta a altura entre os itens da lista*/
+  height: 30px; /*Aumenta a altura entre os itens da lista*/
 }
 
 /*Imagem bold*/
 .img-bold {
-    font-weight: bold; /*texto em negrito*/
-    text-align: center; /*Centraliza o texto e a imagem*/
+  font-weight: bold; /*texto em negrito*/
+  text-align: center; /*Centraliza o texto e a imagem*/
 }
